@@ -7,7 +7,7 @@
 A repository for organic growth using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is ~~[here]()~~.
+Demo video is [here](https://youtu.be/Ogk4sCQBI6c).
 <br>
 <br>
 
